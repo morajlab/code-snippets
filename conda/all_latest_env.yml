@@ -1,0 +1,9 @@
+name: all_latest
+channels:
+  - conda-forge
+dependencies:
+  - go
+  - nodejs
+  - pip
+  - protobuf
+  - rust
