@@ -1,7 +1,8 @@
-name: all_latest
+name: main
 channels:
   - conda-forge
 dependencies:
+  - git
   - gcc
   - go
   - nodejs
