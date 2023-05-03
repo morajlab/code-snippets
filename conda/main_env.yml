@@ -2,6 +2,7 @@ name: main
 channels:
   - conda-forge
 dependencies:
+  - poetry
   - git
   - gcc
   - go
